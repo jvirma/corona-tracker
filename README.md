@@ -1,4 +1,4 @@
-# corona-tracker
+# Corona Tracker
 Corona Tracker, which is done by following JavaScript Mastery YouTube tutorial.
 Available: https://joonasvirmajoki.me/corona-tracker/
 
