@@ -7,7 +7,7 @@ Material-UI, React.js & API requests
 #### Result
 <p align="center">
 <b>Desktop Screen</b><br><br>
-![Corona Tracker](https://i.gyazo.com/18a64d923782df5144c9fcad1f60cb7f.png)
+<img width="46%" height="auto" src="https://i.gyazo.com/18a64d923782df5144c9fcad1f60cb7f.png"/>
 </p>
 
 <p align="center">
