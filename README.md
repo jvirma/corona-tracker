@@ -10,6 +10,6 @@ Material-UI, React.js & API requests
 ![Corona Tracker](https://i.gyazo.com/18a64d923782df5144c9fcad1f60cb7f.png)
 
 <b>Mobile Screens</b><br><br>
-![Corona Tracker](https://i.gyazo.com/18a64d923782df5144c9fcad1f60cb7f.png)
+![Corona Tracker](https://i.gyazo.com/bbd640ddc24f268aae4f79450ed76bf6.png)
 
 </p>
