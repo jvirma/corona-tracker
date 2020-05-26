@@ -1,5 +1,5 @@
 # Corona Tracker
-Corona Tracker, which is done by following JavaScript Mastery YouTube tutorial.
+Corona Tracker, which is done by following JavaScript Mastery YouTube tutorial ("Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)").
 
 **Live website:** https://joonasvirmajoki.me/corona-tracker/
 
