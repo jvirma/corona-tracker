@@ -9,9 +9,9 @@ Corona Tracker, which is done by following JavaScript Mastery YouTube tutorial.
 
 - Material-UI
 - React.js
-- Finnkino XML Service (https://www.finnkino.fi/xml/)
 - Axios
 - Chart.js
+- API (https://covid19.mathdro.id/api)
 
 #### Features
 
