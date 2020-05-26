@@ -1,8 +1,23 @@
 # Corona Tracker
 Corona Tracker, which is done by following JavaScript Mastery YouTube tutorial.
-Available: https://joonasvirmajoki.me/corona-tracker/
 
-Material-UI, React.js & API requests
+**Live website:** https://joonasvirmajoki.me/corona-tracker/
+
+---
+
+#### Tools used
+
+- Material-UI
+- React.js
+- Finnkino XML Service (https://www.finnkino.fi/xml/)
+- Axios
+- Chart.js
+
+#### Features
+
+- Global statistics (infected recovered, deaths)
+- Country based statistic
+- Line chart and bar chart
 
 #### Result
 <p align="center">
