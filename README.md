@@ -12,6 +12,6 @@ Material-UI, React.js & API requests
 
 <p align="center">
 <b>Mobile Screen</b><br><br>
-<img width="20%" height="auto" src="https://i.gyazo.com/bbd640ddc24f268aae4f79450ed76bf6.png"/>  
+<img width="30%" height="auto" src="https://i.gyazo.com/bbd640ddc24f268aae4f79450ed76bf6.png"/>  
 </p>
 
