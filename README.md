@@ -1,7 +1,7 @@
 # Corona Tracker
 Corona Tracker, which is done by following JavaScript Mastery YouTube tutorial.
 
-**Live website:** https://joonasvirmajoki.me/corona-tracker/
+**Live website:** https://jvirma.github.io/corona-tracker/
 
 ---
 
